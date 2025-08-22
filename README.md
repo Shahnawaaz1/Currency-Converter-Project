@@ -45,8 +45,8 @@ Understanding API integration (if extended to use live exchange rates)
 
 ✅ Add more currencies with search functionality
 
-![Currency Converter](Currencyconverter.png)
-
 ✅ Implement dark mode for better UI
 
 ✅ Make it fully responsive for mobile devices
+
+![Currency Converter](Currencyconverter.png)
